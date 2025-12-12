@@ -15,6 +15,9 @@ En mi caso, la app es un sistema para **controlar el subsidio al diésel y regis
 Las capturas del programa en ejecución están aquí:  
 📎 https://drive.google.com/file/d/1p1klm_FB66IxI4ZNooPqgx3sPXPiDfjd/view?usp=sharing
 
+Y el dataset obtenido se encuentra en el repositorio:
+instragram_following.xlsx
+
 ---
 
 # 1. Proceso realizado
